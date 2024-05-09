@@ -1,8 +1,10 @@
-# React + Vite
+# React Blog List app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👨‍💻 This project consist of blog lists, implemented by react-router-dom
 
-Currently, two official plugins are available:
+***☀️ 🌙 Added the dark and light theme feature***
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+***Created using:***  React.js, Chakra UI, Tailwind CSS
+
+***Please find the deployed url below***<br>
+https://bloglist-demo.netlify.app
