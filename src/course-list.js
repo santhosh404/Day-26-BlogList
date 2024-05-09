@@ -83,7 +83,7 @@ export const courseList = [
     {
         id: 10,
         tag: 'data-science',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png',
+        img: 'https://miro.medium.com/v2/resize:fit:1358/1*FCoyCKFGxNMsT5BEbytr_A.png',
         title: 'Roles and Responsibilities of a Data Scientist',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Suresh',
@@ -240,7 +240,7 @@ export const courseList = [
     {
         id: 11,
         tag: 'cyber-security',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png',
+        img: 'https://intellipaat.com/blog/wp-content/uploads/2020/10/Cyber-Security-vs-Ethical-Hacking-Big.jpg',
         title: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Tushar Vinocha',
