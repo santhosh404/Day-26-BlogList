@@ -1,6 +1,7 @@
 import { MoonIcon, SunIcon } from '@chakra-ui/icons'
 import { useColorMode, Tooltip, useColorModeValue } from '@chakra-ui/react'
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 export default function Navbar() {
 
@@ -17,13 +18,13 @@ export default function Navbar() {
     <>
       <div className='flex flex-wrap sm:flex-wrap justify-between items-center p-6 navbar' style={styleSheet}>
         <div>
-          <h1 className='font-bold text-2xl nav-brand'>VTK Learnings</h1>
+          <Link to={"/"}><h1 className='font-bold text-2xl nav-brand'>VTK Learnings</h1></Link>
         </div>
         <div className='flex gap-5 items-center'>
           {
 
-            colorMode === "dark" ? <Tooltip label={"Light Mode"}><SunIcon onClick={toggleColorMode} className='text-2xl cursor-pointer' /></Tooltip>  :
-            <Tooltip label={"Dark Mode"}><MoonIcon onClick={toggleColorMode} className='text-2xl cursor-pointer'  /></Tooltip>  
+            colorMode === "dark" ? <Tooltip label={"Light Mode"}><SunIcon onClick={toggleColorMode} className='text-2xl cursor-pointer' /></Tooltip> :
+              <Tooltip label={"Dark Mode"}><MoonIcon onClick={toggleColorMode} className='text-2xl cursor-pointer' /></Tooltip>
 
           }
         </div>
