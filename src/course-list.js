@@ -22,7 +22,7 @@ export const courseList = [
     {
         id: 14,
         tag: 'cyber-security',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png',
+        img: 'https://www.fraud.com/wp-content/uploads/2023/04/Hacking-1-1024x535.jpg',
         title: 'What Is Hacking? Types of Hacking & More',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Tushar Vinocha',
@@ -33,7 +33,7 @@ export const courseList = [
     {
         id: 5,
         tag: 'full-stack-development',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg',
+        img: 'https://media.geeksforgeeks.org/wp-content/uploads/20221124131312/BestFullStackDeveloperCourses2023.png',
         title: 'Top 10 Full-Stack Developer Frameworks in 2024',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Isha Sharma',
@@ -53,7 +53,7 @@ export const courseList = [
     {
         id: 1,
         tag: 'full-stack-development',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg',
+        img: 'https://d2ms8rpfqc4h24.cloudfront.net/Guide_to_Full_Stack_Development_000eb0b2d0.jpg',
         title: 'Best Full-Stack Development Project Ideas in 2024',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Isha Sharma',
@@ -73,7 +73,7 @@ export const courseList = [
     {
         id: 9,
         tag: 'data-science',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png',
+        img: 'https://www.naukri.com/campus/career-guidance/wp-content/uploads/2023/11/what-is-data-science.jpg',
         title: 'Can A Commerce Student Do Data Science?',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Isha Sharma',
@@ -124,7 +124,7 @@ export const courseList = [
     {
         id: 4,
         tag: 'full-stack-development',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjqSkWtw0jtBgUpMzlCKsq-QqPWGLBbxy8ssenqco4pw&s',
         title: 'How does Apache work? A detailed introduction to Apache',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Tushar Vinocha',
@@ -134,7 +134,7 @@ export const courseList = [
     {
         id: 6,
         tag: 'full-stack-development',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYF9T552G-DlYqI4RVmhYyqmdrvbFgWAWMA&s',
         title: 'Best Web Development Roadmap for Beginners 2024',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Suresh',
@@ -144,7 +144,7 @@ export const courseList = [
     {
         id: 19,
         tag: 'ui-ux',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg',
+        img: 'https://www.uplers.com/wp-content/uploads/2022/10/UI-UX-Designer-Job-Description-02-1-scaled.jpg',
         title: 'UI/UX Designer Job Description and Roles & Responsibilities',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Meghana D S',
@@ -186,7 +186,7 @@ export const courseList = [
     {
         id: 24,
         tag: 'full-stack-development',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-2048x1365.jpg',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0FV5IiCoSOC1nryfoMFv_HJM-x_0QF-MhtyzBsFe-pnMHCjCsuMi20ttx7zEHgRW0eJ0&usqp=CAU',
         title: 'The Future & Scope of Full-Stack Developers in India',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Meghana D',
@@ -210,7 +210,7 @@ export const courseList = [
     {
         id: 3,
         tag: 'full-stack-development',
-        img: 'https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbsMK6rm1khvSN6C2TIbux3FmL1RxVy7518eensNAa5sgmt2VY2x6V8Bgl6Vo9C-k0CE&usqp=CAU',
         title: '6 Essential Prerequisites For Learning ReactJS',
         description: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document',
         madeBy: 'Ram',
